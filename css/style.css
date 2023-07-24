@@ -198,7 +198,7 @@ i.fa-star {
     justify-content: space-between;
 }
 .app__results-inner {
-    color: aliceblue;
+    color: rgb(196, 214, 187);
     padding: 20px;
 }
 .results__title {
@@ -253,27 +253,27 @@ i.fa-star {
 }
 
 .btn__zerg {
-    background-color: #762877;
+    background-color: #c5c828;
 }
 .btn__primal {
     background-color: #56a725;
 }
 .btn__protoss {
-    background-color: #fce356;
-    color: #000;
+    background-color: #ce8ebf;
+    
 }
 .btn__taldarim {
-    background-color: #9d0101;
+    background-color: #f3ff0c;
 }
 .btn__terran {
-    background-color: #da8618;
+    background-color: #fa7ffc;
 }
 .btn__infested {
-    background-color: #f5b673;
+    background-color: #72583d;
     color: #000;
 }
 .btn__hybrid {
-    background-color: #fc7654;
+    background-color: #5457fc;
 }
 
 
