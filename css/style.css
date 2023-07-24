@@ -245,11 +245,11 @@ i.fa-star {
 }
 .app.results[data-race="taldarim"] {
     background-image: url(../img/Вьетнамская.png);
-    background-position: 40% 0;
+    
 }
 .app.results[data-race="hybrid"] {
     background-image: url(../img/Голубойдреволаз.png);
-    background-position: 45% 0;
+    
 }
 
 .btn__zerg {
